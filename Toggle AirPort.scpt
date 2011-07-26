@@ -6,8 +6,8 @@
 -- Description: Toggle AirPort.scpt is a simple AppleScript file that will 
 --              either enable or disable your AirPort connection
 -- License: Licensed under the MIT License (see README for full information)
--- Date: November 4, 2009 
--- Version: 1.0
+-- Date: July 25, 2011 
+-- Version: 2.0 (OS X 10.7)
 
 --Figure out if the AirPort is on or off...
 set airport_status to do shell script "/usr/sbin/networksetup -getairportpower AirPort"
