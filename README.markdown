@@ -14,6 +14,8 @@ If [Growl](http://growl.info/ "Growl") is installed, you'll get a popup notifica
 
 Because OS X 10.7 (Lion) renamed "Airport" to "Wi-Fi", the original version of `Toggle Airport.scpt` doesn't work. Version 2, released on July 25, 2011, does though, and is completely compatible with Lion. Version 1 is still available at Github for OS X 10.6 (Snow Leopard) users.
 
+Version 2.1 works with the new Growl 1.3, available on the Mac App Store.
+
 ## License ##
 
 Toggle AirPort.scpt is licensed under the MIT License:
